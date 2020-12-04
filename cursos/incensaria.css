@@ -1,0 +1,100 @@
+*{
+	padding: 0px;
+    margin: 0px;
+}
+
+
+
+ body{
+ 	font-family: Indie Flower; 
+ }
+  
+.icone{
+   display: inline-block;
+   margin-top: 170%;
+  
+
+ }
+ .menu:hover{
+  letter-spacing: 7px;
+  }
+
+.iconessociais{
+  height: 30px;
+
+}
+
+#alinhar{
+float: right;
+
+}
+  
+  h1{
+  	text-align: center;
+  	margin-top: 47%;
+  	font-size: 200%;
+  }
+ 
+  h2{
+  line-height: 0px;
+  	text-align: center;
+    font-size: 100%;
+  }
+
+
+
+ 
+ nav{
+    background-color: #E04E00;
+    width:  350px;
+    height: 100%;
+    position: fixed;
+   
+ }
+
+ul{
+    list-style: none;
+    position: absolute;
+    margin-top: 70px;
+    width: 100%;
+    text-align: right;
+   }
+
+li{
+  margin-top: 0px;
+ }
+
+a{
+     text-decoration: none;
+     display: block;
+     padding: 20px 5px;
+     color: #190778;
+}
+
+.imgs{
+  width: 130px;
+
+}
+
+.section{
+  
+  text-align: center;
+  border: solid;
+  border-radius: 20px;
+  border-color: #190778;
+  height:370px;
+  }
+
+article{
+  width: 240px;
+  display: inline-block;
+  float: left;
+  margin-left: 40px;
+  margin-bottom: 40px;;
+}
+
+#esquerda{
+  margin-left: 400px;
+  
+}
+
